@@ -30,19 +30,23 @@ A Python-based project that compares multiple text documents and calculates simi
 
 ## ⚙️ How to Run
 
-1. Clone the repository:
-   
-   git clone https://github.com/your-username/plagiarism-detection-python.git
-   
-3. Navigate into the project folder:
+1. Clone this repository:
 
+   ```bash
+   git clone https://github.com/Tholleti-Pavani/Text-Based Plagiarism Detection System using Python.git
+   ```
+2. Navigate into the project folder:
+
+   ```bash
    cd plagiarism-detection-python
-   
-5. Add text files to the documents folder.
+   ```
+3. Run the script:
 
-6. Run the script:
-
+   ```bash
    python plagiarism_detector.py
+   ```
+
+
    
 ---
 
@@ -94,4 +98,4 @@ Final Year B.Tech Student | Python Developer
 
 📧 pavanitholleti682@gmail.com
 
-🌐 https://github.com/your-username
+🌐 https://github.com/Tholleti-Pavani
